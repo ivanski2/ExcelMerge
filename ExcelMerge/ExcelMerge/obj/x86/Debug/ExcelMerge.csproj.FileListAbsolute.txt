@@ -1,0 +1,28 @@
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\bin\Debug\ExcelMerge.exe
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\bin\Debug\ExcelMerge.pdb
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\obj\x86\Debug\ExcelMerge.Form1.resources
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\obj\x86\Debug\ExcelMerge.Properties.Resources.resources
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\obj\x86\Debug\ExcelMerge.exe
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\obj\x86\Debug\ExcelMerge.pdb
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\bin\Debug\Spire.XLS.dll
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\bin\Debug\Spire.Pdf.dll
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\bin\Debug\Spire.License.dll
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\bin\Debug\Spire.XLS.xml
+c:\users\pesho\documents\visual studio 2010\Projects\ExcelMerge\ExcelMerge\bin\Debug\Spire.Pdf.xml
+C:\Users\pesho\Documents\Visual Studio 2010\Projects\ExcelMerge\ExcelMerge\bin\Debug\ExcelMerge.exe.config
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\bin\Debug\ExcelMerge.exe.config
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\obj\x86\Debug\ExcelMerge.exe
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\obj\x86\Debug\ExcelMerge.pdb
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\bin\Debug\ExcelMerge.exe
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\bin\Debug\ExcelMerge.pdb
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\bin\Debug\Spire.Pdf.dll
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\bin\Debug\Spire.License.dll
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\bin\Debug\Spire.XLS.xml
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\bin\Debug\Spire.Pdf.xml
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\obj\x86\Debug\ExcelMerge.csprojResolveAssemblyReference.cache
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\obj\x86\Debug\ExcelMerge.Form1.resources
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\obj\x86\Debug\ExcelMerge.Properties.Resources.resources
+C:\Users\ivanski\Desktop\ExcelMerge\ExcelMerge\obj\x86\Debug\ExcelMerge.csproj.GenerateResource.Cache
