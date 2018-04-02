@@ -1,1 +1,1 @@
-This is simple app for merge exel table in one.
+This is simple app for merge exel table in one different sheet.
